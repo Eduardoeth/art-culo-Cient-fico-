@@ -1,6 +1,7 @@
 DISEÑO DE UN MODELO PREDICTIVO CON REDES NEURONALES
 ARTIFICIALES PARA LA REOLOGÍA DE PULPAS TOMANDO DATOS
 CARACTERÍSTICOS DE SEDIMENTACIÓN
+
 Eduardo E. Tapia
 
 La mayor parte de las industrias mineras de Chile con procesos metalúrgicos, tienen operaciones que utilizan cantidades profusas de agua, como es
