@@ -1,3 +1,8 @@
+DISEÑO DE UN MODELO PREDICTIVO CON REDES NEURONALES
+ARTIFICIALES PARA LA REOLOGÍA DE PULPAS TOMANDO DATOS
+CARACTERÍSTICOS DE SEDIMENTACIÓN
+Eduardo E. Tapia
+
 La mayor parte de las industrias mineras de Chile con procesos metalúrgicos, tienen operaciones que utilizan cantidades profusas de agua, como es
 en el caso de la flotación, siendo el descarte de este proceso de casi un 95% de agua, por lo que la recuperación de agua es crucial. En este estudio
 enfocado a la de reología se presentará una metodología de análisis y técnicas basadas para la predicción con redes neuronales. Se emplearon
